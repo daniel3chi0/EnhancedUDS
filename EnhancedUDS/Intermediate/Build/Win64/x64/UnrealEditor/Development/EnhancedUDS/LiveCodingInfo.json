@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EnhancedUDS.cpp.obj": [
+			"DayTimeManager.gen.cpp.obj",
+			"EnhancedUDS.init.gen.cpp.obj",
+			"UDSWComponent.gen.cpp.obj",
+			"UDSWManager.gen.cpp.obj",
+			"DayTimeManager.cpp.obj",
+			"EnhancedUDS.cpp.obj",
+			"UDSWComponent.cpp.obj",
+			"UDSWManager.cpp.obj"
+		]
+	}
+}

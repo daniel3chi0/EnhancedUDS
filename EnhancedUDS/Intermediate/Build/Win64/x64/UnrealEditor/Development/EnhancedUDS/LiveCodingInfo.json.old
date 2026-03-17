@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EnhancedUDS.cpp.obj": [
+			"EnhancedUDS.cpp.obj"
+		]
+	}
+}

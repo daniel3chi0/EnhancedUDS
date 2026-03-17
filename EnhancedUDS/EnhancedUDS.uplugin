@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "EnhancedUDS",
+	"Description": "My dynamic sky plugin base on ultra dynamic sky what is the popular plugin in market play.",
+	"Category": "Other",
+	"CreatedBy": "Dnc3",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "EnhancedUDS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
